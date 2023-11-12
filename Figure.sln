@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Figure", "Figure\Figure.vcxproj", "{C1531AC4-8DC1-4463-93E8-167FDD20870A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Debug|x64.ActiveCfg = Debug|x64
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Debug|x64.Build.0 = Debug|x64
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Debug|x86.Build.0 = Debug|Win32
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Release|x64.ActiveCfg = Release|x64
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Release|x64.Build.0 = Release|x64
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Release|x86.ActiveCfg = Release|Win32
+		{C1531AC4-8DC1-4463-93E8-167FDD20870A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD4E39F-D5D3-4DA6-AE08-988081296972}
+	EndGlobalSection
+EndGlobal
